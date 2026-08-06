@@ -12,7 +12,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Flaxrr.Flaxrr&left_color=%23222&right_color=%23f778ba" alt="Visitors" />
 </div>
 
-[![flaxyy's Discord status](https://dsc-readme.tsuni.dev/api/user/864832759700389909?theme=nitroDark&primaryColor=8180ff&accentColor=fe80c0&width=376&font=8bit&effect=neon&nameColor1=a78bfa)](https://github.com/the-snesler/discord-github-preview)
+[![flaxyy's Discord status](https://dsc-readme.tsuni.dev/api/user/864832759700389909?theme=nitroDark&primaryColor=8180ff&accentColor=fe80c0&width=376&font=8bit&effect=neon&nameColor1=a78bfa)
 
 </div>
 
