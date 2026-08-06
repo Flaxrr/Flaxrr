@@ -12,10 +12,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Flaxrr.Flaxrr&left_color=%23222&right_color=%23f778ba" alt="Visitors" />
 </div>
 
-<!-- Für Discord Presence: ersetze YOUR_DISCORD_ID mit deiner numerischen Discord-ID, wenn du Presence willst -->
-<a href="https://discord.com/users/864832759700389909">
-  <img src="https://lanyard.cnrad.dev/api/864832759700389909?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Probably%20offline" alt="Discord Presence" />
-</a>
+[![flaxyy's Discord status](https://dsc-readme.tsuni.dev/api/user/864832759700389909?theme=nitroDark&primaryColor=8180ff&accentColor=fe80c0&width=512&font=sakura&effect=gradient&nameColor1=a78bfa&nameColor2=ec4899)](https://github.com/the-snesler/discord-github-preview)
 
 </div>
 
