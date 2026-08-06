@@ -4,7 +4,7 @@
 
 <br>
 
-<sub>Code • Games • Kaffee</sub>
+<sub>Code • Games</sub>
 
 <br><br>
 
