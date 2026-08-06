@@ -13,8 +13,8 @@
 </div>
 
 <!-- Für Discord Presence: ersetze YOUR_DISCORD_ID mit deiner numerischen Discord-ID, wenn du Presence willst -->
-<a href="https://discord.com/users/YOUR_DISCORD_ID">
-  <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Probably%20offline" alt="Discord Presence" />
+<a href="https://discord.com/users/864832759700389909">
+  <img src="https://lanyard.cnrad.dev/api/864832759700389909?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Probably%20offline" alt="Discord Presence" />
 </a>
 
 </div>
@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-  ⚡ low-key • stylish • offline vibes
+  ⚡ Gamer • Coder
 </div>
 
 ---
